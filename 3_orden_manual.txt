@@ -1,0 +1,12 @@
+La tabla a utilizar en los siguientes pasos del trabajo se llama "tabla_datos_ordenados.xlsx"
+
+Esta se realizó a partir de los datos obtenidos en "Tabla_datos_diversidad.txt", donde se 
+ordenaron las muestras en orden ascendente con los cálculos de S.obs, S.chao1, se.chao1, 
+S.ACE, Shannon y Simpson. Luego, se agregaron columnas de estacion, profunidad, filtro y 
+fracción, las cuales se rellenaron según el archivo "KH_metadata_estaciones_v3_SOLO_BRANSFIELD.txt".
+
+Para terminar, se agregaron las columnas eco, influ y decepcion. Estas se rellenaron según los 
+criterios de: pertenencia a la ecorregión de las Islas Shetland del Sur o de la Peninsula Antartica, 
+influencia del mar de Bellingshausen o del mar de Weddell y cercanía o a la Isla Decepción.
+
+
