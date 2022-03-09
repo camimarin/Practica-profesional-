@@ -1,10 +1,7 @@
 Hola! 
 
 Soy Camila Marín, el presente trabajo se enmarca en mi práctica profesional, donde realice 
-un analisis de datos del archivo OTU_Tab_nomitoch_nochloro_no18S_SOLO_BRANSFIELD, este archivo
-no se encuentra actualmente disponible para circular públicamente, la fecha en la que se subirá
-a este repositorio es indeterminada.
-Los datos fueron recolectados entre el 8 de enero y el 24 de febrero de 2019 en 
+un analisis de datos que fueron recolectados entre el 8 de enero y el 24 de febrero de 2019 en 
 la campaña “Multinational Large-Scale Krill Synoptic Survey, 2019”. 
 
 El orden del trabajo fue el siguiente:
@@ -39,11 +36,14 @@ Lista de los archivos utilizados en el trabajo:
 -4_graficos.R
 -5_Kruskalwallis.R
 -KH_metadata_estaciones_v3_SOLO_BRANSFIELD
+-OTU_Tab_nomitoch_nochloro_no18S_SOLO_BRANSFIELD*
 -OTUsot
 -README
 -Tabla_datos_diversidad_alpha
 -tabla_datos_ordenados
 
+*El archivo OTU_Tab_nomitoch_nochloro_no18S_SOLO_BRANSFIELD no se encuentra actualmente disponible (restricciones de proyecto).
+
 
 Archivo creado en febrero 2022
-última versión: 08-03-2022
+última versión: 09-03-2022
